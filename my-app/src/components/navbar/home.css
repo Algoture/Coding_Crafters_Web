@@ -36,7 +36,7 @@ body{
     font-size: 4rem;
 }
 .logo:hover{
-    transition: 0.5s;
+    transition: 1s;
     scale: 110%;
 }
 #head-para{
